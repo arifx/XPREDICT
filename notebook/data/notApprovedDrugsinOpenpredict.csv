@@ -1,0 +1,104 @@
+,drugid,omimid,drug_name,ind_name,ind_id,NCT,status,phase,DetailedStatus
+0,DB00843,605055,donepezil,Alzheimer's Disease,C0002395,NCT00602680,Terminated,Phase 2,Insufficient expected benefit risk
+1,DB00843,605055,donepezil,Alzheimer's Disease,C0002395,NCT00672945,Terminated,Phase 2,
+2,DB00843,605055,donepezil,Alzheimer's Disease,C0002395,NCT00693004,Terminated,Phase 2,
+3,DB00843,605055,donepezil,Alzheimer's Disease,C0002395,NCT00704782,Terminated,Phase 2,The study was halted after a Phase 3 study of dimebon failed to show efficacy.
+4,DB00843,605055,donepezil,Alzheimer's Disease,C0002395,NCT00713765,Terminated,Phase 1,Ended prematurely - The trial never commenced.
+5,DB00843,605055,donepezil,Alzheimer's Disease,C0002395,NCT00874939,Terminated,Phase 1,
+6,DB00843,605055,donepezil,Alzheimer's Disease,C0002395,NCT01712074,Terminated,Phase 2,"The study was terminated October 23, 2015 as pre-specified, interim analysis futility criteria
+    were met. The termination was not due to safety concerns."
+7,DB00843,605055,,Alzheimer's Disease,C0002395,NCT03316898,Withdrawn,Phase 1,Business decision to stop the study.
+8,DB00843,125320,donepezil,Alzheimer's Disease,C0002395,NCT00602680,Terminated,Phase 2,Insufficient expected benefit risk
+9,DB00843,125320,donepezil,Alzheimer's Disease,C0002395,NCT00672945,Terminated,Phase 2,
+10,DB00843,125320,donepezil,Alzheimer's Disease,C0002395,NCT00693004,Terminated,Phase 2,
+11,DB00843,125320,donepezil,Alzheimer's Disease,C0002395,NCT00704782,Terminated,Phase 2,The study was halted after a Phase 3 study of dimebon failed to show efficacy.
+12,DB00843,125320,donepezil,Alzheimer's Disease,C0002395,NCT00713765,Terminated,Phase 1,Ended prematurely - The trial never commenced.
+13,DB00843,125320,donepezil,Alzheimer's Disease,C0002395,NCT00874939,Terminated,Phase 1,
+14,DB00843,125320,donepezil,Alzheimer's Disease,C0002395,NCT01712074,Terminated,Phase 2,"The study was terminated October 23, 2015 as pre-specified, interim analysis futility criteria
+    were met. The termination was not due to safety concerns."
+15,DB00843,125320,,Alzheimer's Disease,C0002395,NCT03316898,Withdrawn,Phase 1,Business decision to stop the study.
+16,DB00843,104300,donepezil,Alzheimer's Disease,C0002395,NCT00602680,Terminated,Phase 2,Insufficient expected benefit risk
+17,DB00843,104300,donepezil,Alzheimer's Disease,C0002395,NCT00672945,Terminated,Phase 2,
+18,DB00843,104300,donepezil,Alzheimer's Disease,C0002395,NCT00693004,Terminated,Phase 2,
+19,DB00843,104300,donepezil,Alzheimer's Disease,C0002395,NCT00704782,Terminated,Phase 2,The study was halted after a Phase 3 study of dimebon failed to show efficacy.
+20,DB00843,104300,donepezil,Alzheimer's Disease,C0002395,NCT00713765,Terminated,Phase 1,Ended prematurely - The trial never commenced.
+21,DB00843,104300,donepezil,Alzheimer's Disease,C0002395,NCT00874939,Terminated,Phase 1,
+22,DB00843,104300,donepezil,Alzheimer's Disease,C0002395,NCT01712074,Terminated,Phase 2,"The study was terminated October 23, 2015 as pre-specified, interim analysis futility criteria
+    were met. The termination was not due to safety concerns."
+23,DB00843,104300,,Alzheimer's Disease,C0002395,NCT03316898,Withdrawn,Phase 1,Business decision to stop the study.
+24,DB00412,125853,rosiglitazone,Alzheimer's Disease,C0002395,NCT00334568,Terminated,Phase 2,Slow recruitment
+25,DB00412,125853,rosiglitazone,Alzheimer's Disease,C0002395,NCT00490568,Terminated,Phase 3,Based on preliminary parent study results
+26,DB00412,125853,rosiglitazone,Alzheimer's Disease,C0002395,NCT00550420,Terminated,Phase 3,Based on preliminary parent study results
+27,DB00412,125853,,Alzheimer's Disease,C0002395,NCT00884533,Withdrawn,Phase 1,The whole project was terminated
+28,DB00412,125851,rosiglitazone,Alzheimer's Disease,C0002395,NCT00334568,Terminated,Phase 2,Slow recruitment
+29,DB00412,125851,rosiglitazone,Alzheimer's Disease,C0002395,NCT00490568,Terminated,Phase 3,Based on preliminary parent study results
+30,DB00412,125851,rosiglitazone,Alzheimer's Disease,C0002395,NCT00550420,Terminated,Phase 3,Based on preliminary parent study results
+31,DB00412,125851,,Alzheimer's Disease,C0002395,NCT00884533,Withdrawn,Phase 1,The whole project was terminated
+32,DB00412,600496,rosiglitazone,Alzheimer's Disease,C0002395,NCT00334568,Terminated,Phase 2,Slow recruitment
+33,DB00412,600496,rosiglitazone,Alzheimer's Disease,C0002395,NCT00490568,Terminated,Phase 3,Based on preliminary parent study results
+34,DB00412,600496,rosiglitazone,Alzheimer's Disease,C0002395,NCT00550420,Terminated,Phase 3,Based on preliminary parent study results
+35,DB00412,600496,,Alzheimer's Disease,C0002395,NCT00884533,Withdrawn,Phase 1,The whole project was terminated
+36,DB00412,125850,rosiglitazone,Alzheimer's Disease,C0002395,NCT00334568,Terminated,Phase 2,Slow recruitment
+37,DB00412,125850,rosiglitazone,Alzheimer's Disease,C0002395,NCT00490568,Terminated,Phase 3,Based on preliminary parent study results
+38,DB00412,125850,rosiglitazone,Alzheimer's Disease,C0002395,NCT00550420,Terminated,Phase 3,Based on preliminary parent study results
+39,DB00412,125850,,Alzheimer's Disease,C0002395,NCT00884533,Withdrawn,Phase 1,The whole project was terminated
+40,DB00734,225755,risperidone,Alzheimer's Disease,C0002395,NCT00287742,Terminated,Phase 3,"A decision was made to discontinue the study due to a change in the strategic direction of the
+    company."
+41,DB00734,608033,risperidone,Alzheimer's Disease,C0002395,NCT00287742,Terminated,Phase 3,"A decision was made to discontinue the study due to a change in the strategic direction of the
+    company."
+42,DB00734,182830,risperidone,Alzheimer's Disease,C0002395,NCT00287742,Terminated,Phase 3,"A decision was made to discontinue the study due to a change in the strategic direction of the
+    company."
+43,DB00734,300494,risperidone,Alzheimer's Disease,C0002395,NCT00287742,Terminated,Phase 3,"A decision was made to discontinue the study due to a change in the strategic direction of the
+    company."
+44,DB00734,137580,risperidone,Alzheimer's Disease,C0002395,NCT00287742,Terminated,Phase 3,"A decision was made to discontinue the study due to a change in the strategic direction of the
+    company."
+45,DB00734,260970,risperidone,Alzheimer's Disease,C0002395,NCT00287742,Terminated,Phase 3,"A decision was made to discontinue the study due to a change in the strategic direction of the
+    company."
+46,DB00734,225740,risperidone,Alzheimer's Disease,C0002395,NCT00287742,Terminated,Phase 3,"A decision was made to discontinue the study due to a change in the strategic direction of the
+    company."
+47,DB00734,181500,risperidone,Alzheimer's Disease,C0002395,NCT00287742,Terminated,Phase 3,"A decision was made to discontinue the study due to a change in the strategic direction of the
+    company."
+48,DB00712,607459,flurbiprofen,Alzheimer's Disease,C0002395,NCT00380276,Terminated,Phase 3,Myriad has discontinued the development of Flurizan.
+49,DB00712,607459,flurbiprofen,Alzheimer's Disease,C0002395,NCT01723670,Withdrawn,Phase 2,
+50,DB00712,153880,flurbiprofen,Alzheimer's Disease,C0002395,NCT00380276,Terminated,Phase 3,Myriad has discontinued the development of Flurizan.
+51,DB00712,153880,flurbiprofen,Alzheimer's Disease,C0002395,NCT01723670,Withdrawn,Phase 2,
+52,DB00712,208230,flurbiprofen,Alzheimer's Disease,C0002395,NCT00380276,Terminated,Phase 3,Myriad has discontinued the development of Flurizan.
+53,DB00712,208230,flurbiprofen,Alzheimer's Disease,C0002395,NCT01723670,Withdrawn,Phase 2,
+54,DB00712,103100,flurbiprofen,Alzheimer's Disease,C0002395,NCT00380276,Terminated,Phase 3,Myriad has discontinued the development of Flurizan.
+55,DB00712,103100,flurbiprofen,Alzheimer's Disease,C0002395,NCT01723670,Withdrawn,Phase 2,
+56,DB00712,140600,flurbiprofen,Alzheimer's Disease,C0002395,NCT00380276,Terminated,Phase 3,Myriad has discontinued the development of Flurizan.
+57,DB00712,140600,flurbiprofen,Alzheimer's Disease,C0002395,NCT01723670,Withdrawn,Phase 2,
+58,DB00712,607850,flurbiprofen,Alzheimer's Disease,C0002395,NCT00380276,Terminated,Phase 3,Myriad has discontinued the development of Flurizan.
+59,DB00712,607850,flurbiprofen,Alzheimer's Disease,C0002395,NCT01723670,Withdrawn,Phase 2,
+60,DB00712,165720,flurbiprofen,Alzheimer's Disease,C0002395,NCT00380276,Terminated,Phase 3,Myriad has discontinued the development of Flurizan.
+61,DB00712,165720,flurbiprofen,Alzheimer's Disease,C0002395,NCT01723670,Withdrawn,Phase 2,
+62,DB00983,210050,formoterol,Alzheimer's Disease,C0002395,NCT02500784,Suspended,Phase 2,"Funding ran out before study started, prior PI left institution."
+63,DB00983,208550,formoterol,Alzheimer's Disease,C0002395,NCT02500784,Suspended,Phase 2,"Funding ran out before study started, prior PI left institution."
+64,DB00983,600807,formoterol,Alzheimer's Disease,C0002395,NCT02500784,Suspended,Phase 2,"Funding ran out before study started, prior PI left institution."
+65,DB01043,605055,memantine,Alzheimer's Disease,C0002395,NCT00857233,Terminated,Phase 3,Please see explanation in the Detailed Description field.
+66,DB01043,605055,memantine,Alzheimer's Disease,C0002395,NCT00857649,Terminated,Phase 3,
+67,DB01043,605055,memantine,Alzheimer's Disease,C0002395,NCT02246075,Withdrawn,Phase 2,Forum has decided not to proceed with this study at this time.
+68,DB01043,605055,memantine,Alzheimer's Disease,C0002395,NCT03316898,Withdrawn,Phase 1,Business decision to stop the study.
+69,DB01043,125320,memantine,Alzheimer's Disease,C0002395,NCT00857233,Terminated,Phase 3,Please see explanation in the Detailed Description field.
+70,DB01043,125320,memantine,Alzheimer's Disease,C0002395,NCT00857649,Terminated,Phase 3,
+71,DB01043,125320,memantine,Alzheimer's Disease,C0002395,NCT02246075,Withdrawn,Phase 2,Forum has decided not to proceed with this study at this time.
+72,DB01043,125320,memantine,Alzheimer's Disease,C0002395,NCT03316898,Withdrawn,Phase 1,Business decision to stop the study.
+73,DB01043,104300,memantine,Alzheimer's Disease,C0002395,NCT00857233,Terminated,Phase 3,Please see explanation in the Detailed Description field.
+74,DB01043,104300,memantine,Alzheimer's Disease,C0002395,NCT00857649,Terminated,Phase 3,
+75,DB01043,104300,memantine,Alzheimer's Disease,C0002395,NCT02246075,Withdrawn,Phase 2,Forum has decided not to proceed with this study at this time.
+76,DB01043,104300,memantine,Alzheimer's Disease,C0002395,NCT03316898,Withdrawn,Phase 1,Business decision to stop the study.
+77,DB00674,605055,galantamine,Alzheimer's Disease,C0002395,NCT00679627,Terminated,Phase 3,"Due to a pre-specified imbalance of deaths between treatment groups, the DSMB recommended early
+    termination of the trial"
+78,DB00674,125320,galantamine,Alzheimer's Disease,C0002395,NCT00679627,Terminated,Phase 3,"Due to a pre-specified imbalance of deaths between treatment groups, the DSMB recommended early
+    termination of the trial"
+79,DB00674,104300,galantamine,Alzheimer's Disease,C0002395,NCT00679627,Terminated,Phase 3,"Due to a pre-specified imbalance of deaths between treatment groups, the DSMB recommended early
+    termination of the trial"
+80,DB00982,601626,isotretinoin,Alzheimer's Disease,C0002395,NCT01560585,Terminated,Phase 1/Phase 2,
+81,DB00982,604416,isotretinoin,Alzheimer's Disease,C0002395,NCT01560585,Terminated,Phase 1/Phase 2,
+82,DB01167,258360,itraconazole,Alzheimer's Disease,C0002395,NCT02130661,Withdrawn,Phase 1,
+83,DB01167,114580,itraconazole,Alzheimer's Disease,C0002395,NCT02130661,Withdrawn,Phase 1,
+84,DB01167,212050,itraconazole,Alzheimer's Disease,C0002395,NCT02130661,Withdrawn,Phase 1,
+85,DB01167,602068,itraconazole,Alzheimer's Disease,C0002395,NCT02130661,Withdrawn,Phase 1,
+86,DB00218,208550,moxifloxacin,Alzheimer's Disease,C0002395,NCT00884533,Withdrawn,Phase 1,The whole project was terminated
+87,DB00641,144010,simvastatin,Alzheimer's Disease,C0002395,NCT01978327,Terminated,Phase 1,"Given the strength of CYP3A4 inhibition observed in Cohort 1, there is no rationale to
+    investigate higher doses of GSK2647544 in the following two cohorts"
